@@ -1,1 +1,1 @@
-First readme today
+First time writting scripts
