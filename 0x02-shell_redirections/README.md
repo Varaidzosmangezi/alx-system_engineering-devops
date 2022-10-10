@@ -9,3 +9,4 @@ create new file with text
 list contents of new file
 dublicate last line of file iacta
 delete js files
+count directories
