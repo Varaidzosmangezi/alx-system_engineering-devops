@@ -6,3 +6,4 @@ Display last ten lines
 Display first 10 lines
 Dispaly 3rd line of iacta
 create new file with text
+list contents of new file
