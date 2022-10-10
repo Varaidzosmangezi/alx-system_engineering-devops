@@ -7,3 +7,4 @@ Display first 10 lines
 Dispaly 3rd line of iacta
 create new file with text
 list contents of new file
+dublicate last line of file iacta
