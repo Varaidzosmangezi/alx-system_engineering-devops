@@ -10,3 +10,4 @@ list contents of new file
 dublicate last line of file iacta
 delete js files
 count directories
+diisplay 10 newest files
