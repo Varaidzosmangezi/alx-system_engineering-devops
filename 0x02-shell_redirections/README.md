@@ -4,3 +4,4 @@ view entire contents of /etc/passwd
 view contents of 2 files
 Display last ten lines
 Display first 10 lines
+Dispaly 3rd line of iacta
