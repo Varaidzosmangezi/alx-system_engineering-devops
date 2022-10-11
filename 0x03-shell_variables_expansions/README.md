@@ -8,3 +8,4 @@ Creates a new global variable
 TRUEKNOWLEDGE PLUS 128
 prints results of Power divided by devide
 displays the result of BREATH to the power LOVE
+convert base 2 to base 10
