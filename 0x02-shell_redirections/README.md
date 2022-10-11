@@ -22,3 +22,4 @@ delete c and C
 reverse input 
 display sorted users 
 finds all empty files
+list files with gif extention
