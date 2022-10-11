@@ -21,3 +21,4 @@ replace A and C with Z and e
 delete c and C 
 reverse input 
 display sorted users 
+finds all empty files
