@@ -17,3 +17,4 @@ display number of lines containing bin
 display patterns including root and 3 lines after them in file
 display all the without bin
 Display all lines of the file
+replace A and C with Z and e
