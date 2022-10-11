@@ -20,3 +20,4 @@ Display all lines of the file
 replace A and C with Z and e
 delete c and C 
 reverse input 
+display sorted users 
