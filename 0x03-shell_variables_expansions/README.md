@@ -6,3 +6,4 @@ lists environment variables
 lists all local variables and environment variables, and functions
 Creates a new global variable
 TRUEKNOWLEDGE PLUS 128
+prints results of Power divided by devide
