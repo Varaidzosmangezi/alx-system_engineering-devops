@@ -14,3 +14,4 @@ diisplay 10 newest files
 unique word
 find root
 display number of lines containing bin
+display patterns including root and 3 lines after them in file
