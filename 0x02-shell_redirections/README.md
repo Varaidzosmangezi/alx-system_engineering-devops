@@ -13,3 +13,4 @@ count directories
 diisplay 10 newest files
 unique word
 find root
+display number of lines containing bin
