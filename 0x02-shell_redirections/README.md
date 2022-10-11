@@ -12,3 +12,4 @@ delete js files
 count directories
 diisplay 10 newest files
 unique word
+find root
